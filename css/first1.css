@@ -11,7 +11,8 @@
 }
 body{
 	background-image: url("https://www.junowebdesign.com/wp-content/uploads/2019/06/ColourPsychology-desktop-news-post.jpg");
-    background-size:all; 
+    background-size:all;
+   background-repeat:no-repeat;
 }
 .yellow{
 	height: 40%;
